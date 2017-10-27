@@ -1,3 +1,6 @@
+from pessoas import Pessoa
+from usuarios import Usuario
+
 class Aluno:
     def __init__(self):
         self.sigla_curso = ''
